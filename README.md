@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, I'm Hema Gopisetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hema12347&label=Profile%20views&color=0e75b6&style=flat" alt="hema12347" /> </p>
-
 - 🌱 I’m currently learning **MERN-STACK DEVELOPMENT**
 
 - 💬 Ask me about **HTML,CSS,REACT,NODE,EXPRESS,MONGODB,MYSQL**
